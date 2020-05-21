@@ -1,0 +1,345 @@
+{
+  "Uuid": "e2c3c32c-5727-4b7f-b953-8904c8e89403",
+  "IsCustomNode": false,
+  "Description": null,
+  "Name": "dynamo techoo",
+  "ElementResolver": {
+    "ResolutionMap": {}
+  },
+  "Inputs": [],
+  "Outputs": [],
+  "Nodes": [
+    {
+      "ConcreteType": "DSRevitNodesUI.Categories, DSRevitNodesUI",
+      "SelectedIndex": 278,
+      "SelectedString": "OST_Mass",
+      "NodeType": "ExtensionNode",
+      "Id": "b0138a39559440f2b4b5c0692e1e5e80",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "89819b06f5cf4d8fa884f63e09cc69db",
+          "Name": "Category",
+          "Description": "The selected Category.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "All built-in categories."
+    },
+    {
+      "ConcreteType": "DSRevitNodesUI.ElementsOfCategory, DSRevitNodesUI",
+      "NodeType": "ExtensionNode",
+      "Id": "d1f16e6040794d2f98a938a142be0987",
+      "Inputs": [
+        {
+          "Id": "65f491014b2c4c9c8a2c5a52fd888727",
+          "Name": "Category",
+          "Description": "The Category",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "022fe6c7eca14f2c8dedd1593471f993",
+          "Name": "Elements",
+          "Description": "An element type.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Get all elements of the specified category from the model."
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "Revit.Elements.Element.Geometry",
+      "Id": "e1db29f179e843959ef894fdeb9a4a24",
+      "Inputs": [
+        {
+          "Id": "f67afef8b8754f16a65b30ea37c289f2",
+          "Name": "element",
+          "Description": "Revit.Elements.Element",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "1a9a575d7fa749bea943ed27fd2802fb",
+          "Name": "var[]",
+          "Description": "var[]",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "Get all of the Geometry associated with this object\n\nElement.Geometry ( ): var[]"
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "Revit.Elements.Element.Curves",
+      "Id": "aa818523396945b09c8073efcf9cf1eb",
+      "Inputs": [
+        {
+          "Id": "cab012a681064024b371c0265e05019d",
+          "Name": "element",
+          "Description": "Revit.Elements.Element",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "c2fe4c4437414681bc2771e6ef82f56c",
+          "Name": "Curve[]",
+          "Description": "Curve[]",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "The Curves in this Element\n\nElement.Curves: Curve[]"
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "Autodesk.DesignScript.Geometry.Geometry.Explode",
+      "Id": "e586304ef5fe4be5bb3479d6a507b8f1",
+      "Inputs": [
+        {
+          "Id": "6f50f82abbe9414c8ead91f5ebef96f7",
+          "Name": "geometry",
+          "Description": "Autodesk.DesignScript.Geometry.Geometry",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "cd1fc441f1c4402facc58d309d0d7538",
+          "Name": "Geometry[]",
+          "Description": "Geometry[]",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "Separates compound or non-separated elements into their component parts.\n\nGeometry.Explode ( ): Geometry[]"
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "DSCore.List.GetItemAtIndex@var[]..[],int",
+      "Id": "64266369d73447f09b479a4370d5b627",
+      "Inputs": [
+        {
+          "Id": "cc109ce2410b4fc1ab46b9a529dfb6df",
+          "Name": "list",
+          "Description": "List to fetch an item from.\n\nvar[]..[]",
+          "UsingDefaultValue": false,
+          "Level": 4,
+          "UseLevels": true,
+          "KeepListStructure": false
+        },
+        {
+          "Id": "0849699e3868481787049546d03d2e5e",
+          "Name": "index",
+          "Description": "Index of the item to be fetched.\n\nint",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "98ce709d47c04569b49151c40f01dfd6",
+          "Name": "item",
+          "Description": "Item in the list at the given index.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "Returns an item from the given list that's located at the specified index.\n\nList.GetItemAtIndex (list: var[]..[], index: int): var[]..[]"
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Input.DoubleInput, CoreNodeModels",
+      "NodeType": "NumberInputNode",
+      "NumberType": "Double",
+      "InputValue": 0.0,
+      "Id": "62f8d082d48d473c9180b08e6281c612",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "2342b6cd8c334dbb85696bb4280911f7",
+          "Name": "",
+          "Description": "Double",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Creates a number."
+    }
+  ],
+  "Connectors": [
+    {
+      "Start": "89819b06f5cf4d8fa884f63e09cc69db",
+      "End": "65f491014b2c4c9c8a2c5a52fd888727",
+      "Id": "43e7c43fdca44cb2a8e86f896d67385b"
+    },
+    {
+      "Start": "022fe6c7eca14f2c8dedd1593471f993",
+      "End": "f67afef8b8754f16a65b30ea37c289f2",
+      "Id": "141dff03788541f891f6a5fe2306a3a4"
+    },
+    {
+      "Start": "022fe6c7eca14f2c8dedd1593471f993",
+      "End": "cab012a681064024b371c0265e05019d",
+      "Id": "8acef0800e9441379ec10fdf5acc883d"
+    },
+    {
+      "Start": "1a9a575d7fa749bea943ed27fd2802fb",
+      "End": "6f50f82abbe9414c8ead91f5ebef96f7",
+      "Id": "85fba6cf982d416a82c53c095c673f33"
+    },
+    {
+      "Start": "cd1fc441f1c4402facc58d309d0d7538",
+      "End": "cc109ce2410b4fc1ab46b9a529dfb6df",
+      "Id": "dcb95829de7444f8b2a802e5ac041f13"
+    },
+    {
+      "Start": "2342b6cd8c334dbb85696bb4280911f7",
+      "End": "0849699e3868481787049546d03d2e5e",
+      "Id": "2c99e0af3fef4d94af4d54fca8b9012c"
+    }
+  ],
+  "Dependencies": [],
+  "Bindings": [],
+  "View": {
+    "Dynamo": {
+      "ScaleFactor": 1.0,
+      "HasRunWithoutCrash": true,
+      "IsVisibleInDynamoLibrary": true,
+      "Version": "2.1.0.7500",
+      "RunType": "Automatic",
+      "RunPeriod": "1000"
+    },
+    "Camera": {
+      "Name": "Background Preview",
+      "EyeX": -17.0,
+      "EyeY": 24.0,
+      "EyeZ": 50.0,
+      "LookX": 12.0,
+      "LookY": -13.0,
+      "LookZ": -58.0,
+      "UpX": 0.0,
+      "UpY": 1.0,
+      "UpZ": 0.0
+    },
+    "NodeViews": [
+      {
+        "ShowGeometry": false,
+        "Name": "Categories",
+        "Id": "b0138a39559440f2b4b5c0692e1e5e80",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": -39.412521614874436,
+        "Y": 274.7909542910329
+      },
+      {
+        "ShowGeometry": false,
+        "Name": "All Elements of Category",
+        "Id": "d1f16e6040794d2f98a938a142be0987",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 145.74440371674496,
+        "Y": 276.07718156514193
+      },
+      {
+        "ShowGeometry": false,
+        "Name": "Element.Geometry",
+        "Id": "e1db29f179e843959ef894fdeb9a4a24",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 463.65764439763115,
+        "Y": 275.98886032191228
+      },
+      {
+        "ShowGeometry": false,
+        "Name": "Element.Curves",
+        "Id": "aa818523396945b09c8073efcf9cf1eb",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 452.61572762040777,
+        "Y": 540.11836276640861
+      },
+      {
+        "ShowGeometry": false,
+        "Name": "Geometry.Explode",
+        "Id": "e586304ef5fe4be5bb3479d6a507b8f1",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 735.17294977779511,
+        "Y": 278.66015915456046
+      },
+      {
+        "ShowGeometry": false,
+        "Name": "List.GetItemAtIndex",
+        "Id": "64266369d73447f09b479a4370d5b627",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 1119.444380771288,
+        "Y": 276.1350827404554
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "Number",
+        "Id": "62f8d082d48d473c9180b08e6281c612",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 1037.1014776957916,
+        "Y": 336.57013799064987
+      }
+    ],
+    "Annotations": [],
+    "X": 30.888835008071283,
+    "Y": 18.391066081636836,
+    "Zoom": 0.4803653066725565
+  }
+}
