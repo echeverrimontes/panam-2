@@ -1,0 +1,6 @@
+,Discharge Nominal Radius##PIPE_SIZE##INCHES,Height##LENGTH##INCHES,Discharge Height##LENGTH##INCHES,Base Diameter##LENGTH##INCHES
+105 GPM - 20 Foot Head,1,19.125,3.875,7.5
+125 GPM - 27 Foot Head,1,19.125,3.875,7.5
+150 GPM - 35 Foot Head,1,20.25,3.875,7.5
+185 GPM - 46 Foot Head,1,20.25,3.875,7.5
+210 GPM - 56 Foot Head,1,21.4375,3.875,7.5

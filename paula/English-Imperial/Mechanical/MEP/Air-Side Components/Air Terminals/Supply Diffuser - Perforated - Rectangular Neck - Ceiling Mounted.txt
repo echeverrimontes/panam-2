@@ -1,0 +1,16 @@
+,Diffuser Height##length##inches, Diffuser Width##length##inches, Duct Height##hvac_duct_size##millimeters, Duct Width##hvac_duct_size##millimeters,Flow##other##, Pressure Drop##other##
+12"x12"x6 In Neck,12,12,6,6,350,0.395
+24"x12"x6 In Neck ,24,12,6,6,350,0.374
+16"x16"x6 In Neck ,16,16,6,6,350,0.302
+20"x20"x6 In Neck ,20,20,6,6,350,0.283
+24"x24"x6 In Neck,24,24,6,6,350,0.283
+16"x16"x8 In Neck,16,16,8,8,325,0.415
+20"x20"x8 In Neck ,20,20,8,8,625,0.381
+24"x24"x8 In Neck ,24,24,8,8,625,0.333
+48"x24"x8 In Neck ,48,24,8,8,8000,0.320
+20"x20"x10 In Neck,20,20,10,10,975,0.435
+24"x24"x10 In Neck ,24,24,10,10,1100,0.407
+48"x24"x10 In Neck ,48,24,10,10,8000,0.320
+24"x24"x12 In Neck ,24,24,12,12,1400,0.450
+48"x24"x12 In Neck ,48,24,12,12,8000,0.320
+

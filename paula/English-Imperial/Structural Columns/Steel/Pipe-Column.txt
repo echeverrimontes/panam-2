@@ -1,0 +1,38 @@
+,Gauge##other##,W##other##,A##area##inches,OD##length##inches,ID##length##inches,t##length##inches
+Pipe1/2STD,Standard,0.850,0.230,0.84,0.622,0.109
+Pipe3/4STD,Standard,1.13,0.310,1.05,0.824,0.113
+Pipe1STD,Standard,1.68,0.460,1.315,1.049,0.133
+Pipe1-1/4STD,Standard,2.27,0.620,1.66,1.38,0.14
+Pipe1-1/2STD,Standard,2.72,0.750,1.9,1.61,0.145
+Pipe2STD,Standard,3.66,1.00,2.375,2.067,0.154
+Pipe2-1/2STD,Standard,5.80,1.59,2.875,2.469,0.203
+Pipe3STD,Standard,7.58,2.08,3.5,3.068,0.216
+Pipe3-1/2STD,Standard,9.12,2.51,4,3.548,0.226
+Pipe4STD,Standard,10.8,2.97,4.5,4.026,0.237
+Pipe5STD,Standard,14.6,4.03,5.563,5.047,0.258
+Pipe6STD,Standard,19.0,5.22,6.625,6.065,0.28
+Pipe8STD,Standard,28.6,7.85,8.625,7.981,0.322
+Pipe10STD,Standard,40.5,11.1,10.75,10,0.365
+Pipe12STD,Standard,49.6,13.6,12.75,12,0.375
+Pipe1/2XS,X Strong,1.09,0.300,0.84,0.546,0.147
+Pipe3/4XS,X Strong,1.48,0.410,1.05,0.742,0.154
+Pipe1XS,X Strong,2.17,0.600,1.315,0.957,0.179
+Pipe1-1/4XS,X Strong,3.00,0.830,1.66,1.278,0.191
+Pipe1-1/2XS,X Strong,3.63,1.00,1.9,1.5,0.2
+Pipe2XS,X Strong,5.03,1.39,2.375,1.939,0.218
+Pipe2-1/2XS,X Strong,7.67,2.11,2.875,2.323,0.276
+Pipe3XS,X Strong,10.3,2.83,3.5,2.9,0.3
+Pipe3-1/2XS,X Strong,12.5,3.44,4,3.364,0.318
+Pipe4XS,X Strong,15.0,4.14,4.5,3.826,0.337
+Pipe5XS,X Strong,20.8,5.72,5.563,4.813,0.375
+Pipe6XS,X Strong,28.6,7.88,6.625,5.761,0.432
+Pipe8XS,X Strong,43.4,11.9,8.625,7.625,0.5
+Pipe10XS,X Strong,54.8,15.0,10.75,9.75,0.5
+Pipe12XS,X Strong,65.5,17.9,12.75,11.75,0.5
+Pipe2XXS,XX Strong,9.04,2.51,2.375,1.503,0.436
+Pipe2-1/2XXS,XX Strong,13.7,3.81,2.875,1.771,0.552
+Pipe3XXS,XX Strong,18.6,5.16,3.5,2.3,0.6
+Pipe4XXS,XX Strong,27.6,7.64,4.5,3.152,0.674
+Pipe5XXS,XX Strong,38.6,10.7,5.563,4.063,0.75
+Pipe6XXS,XX Strong,53.2,14.7,6.625,4.897,0.864
+Pipe8XXS,XX Strong,72.5,20.0,8.625,6.875,0.875

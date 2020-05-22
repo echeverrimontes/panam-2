@@ -1,0 +1,9 @@
+,Fixture Type##other##,Trimless Flange##other##,Photometric Web File##other##
+"3"" Trimmed Downlight",Downlight,0,Downlight_LED.ies
+"3"" Trimmed Wall Wash",Wall Wash,0,Wallwash_LED.ies
+"3"" Trimless Downlight",Downlight,1,Downlight_LED.ies
+"3"" Trimless Wall Wash",Wall Wash,1,Wallwash_LED.ies
+"4"" Trimmed Downlight",Downlight,0,Downlight_LED.ies
+"4"" Trimmed Wall Wash",Wall Wash,0,Wallwash_LED.ies
+"4"" Trimless Downlight",Downlight,1,Downlight_LED.ies
+"4"" Trimless Wall Wash",Wall Wash,1,Wallwash_LED.ies

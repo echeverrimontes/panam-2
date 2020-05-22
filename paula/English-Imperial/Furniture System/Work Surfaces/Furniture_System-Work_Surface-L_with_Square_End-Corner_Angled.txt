@@ -1,0 +1,9 @@
+,Width##LENGTH##INCHES,Length##LENGTH##INCHES,Depth##LENGTH##INCHES,Type Comments##OTHER##
+60"" x 42"" x 24"",42,60,24,60"" x 42"" x 24"" L with Square End Corner Angled Work Surface
+66"" x 42"" x 24"",42,66,24,66"" x 42"" x 24"" L with Square End Corner Angled Work Surface
+72"" x 42"" x 24"",42,72,24,72"" x 42"" x 24"" L with Square End Corner Angled Work Surface
+78"" x 42"" x 24"",42,78,24,78"" x 42"" x 24"" L with Square End Corner Angled Work Surface
+60"" x 48"" x 24"",48,60,24,60"" x 48"" x 24"" L with Square End Corner Angled Work Surface
+66"" x 48"" x 24"",48,66,24,66"" x 48"" x 24"" L with Square End Corner Angled Work Surface
+72"" x 48"" x 24"",48,72,24,72"" x 48"" x 24"" L with Square End Corner Angled Work Surface
+78"" x 48"" x 24"",48,78,24,78"" x 48"" x 24"" L with Square End Corner Angled Work Surface

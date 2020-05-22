@@ -1,0 +1,7 @@
+,Width##LENGTH##INCHES,Depth##LENGTH##INCHES,Type Comments##OTHER##
+24"" x 24"",24,24,24"" x 24"" 120 Degree Work Surface
+30"" x 24"",30,24,30"" x 24"" 120 Degree Work Surface
+36"" x 24"",36,24,36"" x 24"" 120 Degree Work Surface
+42"" x 24"",42,24,42"" x 24"" 120 Degree Work Surface
+48"" x 24"",48,24,48"" x 24"" 120 Degree Work Surface
+60"" x 24"",60,24,60"" x 24"" 120 Degree Work Surface

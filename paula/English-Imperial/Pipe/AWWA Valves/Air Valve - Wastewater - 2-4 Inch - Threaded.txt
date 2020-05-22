@@ -1,0 +1,4 @@
+,Inlet Nominal Radius##PIPE_SIZE##INCHES,Valve Height##LENGTH##INCHES,Cover Diameter##LENGTH##INCHES
+"2""",1,15,7
+"3""",1.5,15,7
+"4""",2,15,7

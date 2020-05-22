@@ -1,0 +1,9 @@
+,Discharge Nominal Radius##PIPE_SIZE##INCHES,Height##LENGTH##INCHES,Center to Discharge##LENGTH##INCHES,Discharge Height##LENGTH##INCHES,Cover Diameter##LENGTH##INCHES,Flange Diameter##LENGTH##INCHES,Flange Thickness##LENGTH##INCHES
+"0.75 kW - 2"" Discharge",1,21.3125,8.0625,6.875,8.75,6,0.625
+"1.5 kW - 2"" Discharge",1,22.6875,9.625,7.375,10.3125,6,0.625
+"1.5 kW - 3"" Discharge",1.5,23.5,11.25,8.6875,11.5,7.5,0.75
+"2.2 kW - 3"" Discharge",1.5,28.375,13.5,9.8125,13.1875,7.5,0.75
+"3.7 kW - 3"" Discharge",1.5,30.1875,13.5,9.8125,13.1875,7.5,0.75
+"1.5 kW - 4"" Discharge",2,24.9375,12,10.8125,10.5,9,15/16
+"2.2 kW - 4"" Discharge",2,28.9375,12.8125,10.8125,11.125,9,15/16
+"3.7 kW - 4"" Discharge",2,30.75,12.8125,10.8125,11.125,9,15/16

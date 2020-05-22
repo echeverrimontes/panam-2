@@ -1,0 +1,651 @@
+A	Substructure	1	
+A10	Foundations	2	
+A1010	Standard Foundations	3	
+A1010.10	Wall Foundations	4	-2000011
+A1010.30	Column Foundations	4	-2001300
+A1010.90	Standard Foundation Supplementary Components	4	
+A1020	Special Foundations	3	
+A1020.10	Driven Piles	4	-2001300
+A1020.15	Bored Piles	4	-2001300
+A1020.20	Caissons	4	-2001300
+A1020.30	Special Foundation Walls	4	-2001300
+A1020.40	Foundation Anchors	4	-2001300
+A1020.50	Underpinning	4	-2001300
+A1020.60	Raft Foundations	4	-2001300
+A1020.70	Pile Caps	4	-2001300
+A1020.80	Grade Beams	4	-2001300
+A20	Subgrade Enclosures	2	
+A2010	Walls for Subgrade Enclosures	3	
+A2010.10	Subgrade Enclosure Wall Construction	4	-2000011
+A2010.20	Subgrade Enclosure Wall Interior Skin	4	-2000011
+A2010.90	Subgrade Enclosure Wall Supplementary Components	4	-2000011
+A40	Slabs-On-Grade	2	
+A4010	Standard Slabs-on-Grade	3	
+A4010.10	Standard Slabs-on-Grade	4	-2000032
+A4020	Structural Slabs-on-Grade	3	
+A4020.10	Structural Slabs-on-Grade	4	-2000032
+A4030	Slab Trenches	3	
+A4030.10	Slab Trenches	4	-2000032
+A4040	Pits and Bases	3	
+A4040.10	Pits and Bases	4	-2000032
+A4090	Slab-On-Grade Supplementary Components	3	
+A4090.10	Perimeter Insulation	4	-2000032
+A4090.20	Vapor Retarder	4	-2000032
+A4090.30	Waterproofing	4	-2000032
+A4090.50 	Mud Slab	4	-2000032
+A4090.60	Subbase Layer	4	-2001260
+A60	Water And Gas Mitigation	2	
+A6010	Building Subdrainage	3	
+A6010.10	Foundation Drainage	4	-2001160
+A6010.20	Underslab Drainage	4	-2001160
+A6020	Off-Gassing Mitigation	3	
+A6020.10	Radon Mitigation	4	-2001160
+A6020.50	Methane Mitigation	4	-2001160
+A90	Substructure Related Activities	2	
+A9010	Substructure Excavation	3	
+A9010.10	Backfill and Compaction	4	-2001260
+A9020	Construction Dewatering	3	
+A9020.10	Construction Dewatering	4	-2001260
+A9030	Excavation Support	3	
+A9030.10	Anchor Tiebacks	4	-2001300
+A9030.20	Cofferdams	4	-2001300
+A9030.40	Cribbing and Walers	4	-2001300
+A9030.60	Ground Freezing	4	-2001300
+A9030.70	Slurry Walls	4	-2001300
+A9040	Soil Treatment	3	
+A9040.10	Soil Treatment	4	-2001260
+B	Shell	1	
+B10	Superstructure	2	
+B1010	Floor Construction	3	
+B1010.10	Floor Structural Frame	4	-2001320
+B1010.20	Floor Decks, Slabs, and Toppings	4	-2000032
+B1010.30	Balcony Floor Construction	4	-2000032
+B1010.40	Mezzanine Floor Construction	4	-2000032
+B1010.50	Ramps	4	-2000180
+B1010.90	Floor Construction Supplementary Components	4	-2000032
+B1020	Roof Construction	3	
+B1020.10	Roof Structural Frame	4	-2001320
+B1020.20	Roof Decks, Slabs, and Sheathing	4	-2000032
+B1020.30	Canopy Construction	4	-2001320
+B1020.90	Roof Construction Supplementary Components	4	-2000032
+B1080	Stairs	3	
+B1080.10	Stair Construction	4	-2000120
+B1080.30	Stair Soffits	4	-2000120
+B1080.50	Stair Railings	4	-2000126
+B1080.60	Fire Escapes	4	-2000120
+B1080.70	Metal Walkways	4	-2000120
+B1080.80	Ladders	4	-2000120
+B20	Exterior Vertical Enclosures	2	
+B2010	Exterior Walls	3	
+B2010.10	Exterior Wall Veneer	4	-2000011
+B2010.20	Exterior Wall Construction	4	-2000011
+B2010.30	Exterior Wall Interior Skin	4	-2000011
+B2010.40	Fabricated Exterior Wall Assemblies	4	-2000011
+B2010.50	Parapets	4	-2000011
+B2010.60	Equipment Screens	4	-2000014
+B2010.80	Exterior Wall Supplementary Components	4	-2000011
+B2010.90	Exterior Wall Opening Supplementary Components	4	-2000014
+B2020	Exterior Windows	3	
+B2020.10	Exterior Operating Windows	4	-2000014
+B2020.20	Exterior Fixed Windows	4	-2000014
+B2020.30	Exterior Window Wall	4	-2000170
+B2020.50	Exterior Special Function Windows	4	-2000014
+B2050	Exterior Doors and Grilles	3	
+B2050.10	Exterior Entrance Doors	4	-2000023
+B2050.20	Exterior Utility Doors	4	-2000023
+B2050.30	Exterior Oversize Doors	4	-2000023
+B2050.40	Exterior Special Function Doors	4	-2000023
+B2050.60	Exterior Grilles	4	-2000023
+B2050.70	Exterior Gates	4	-2000023
+B2050.90	Exterior Door Supplementary Components	4	-2000023
+B2070	Exterior Louvers and Vents	3	
+B2070.10	Exterior Louvers	4	-2000014
+B2070.50	Exterior Vents	4	-2000014
+B2080	Exterior Wall Appurtenances	3	
+B2080.10	Exterior Fixed Grilles and Screens	4	-2000014
+B2080.30	Exterior Opening Protection Devices	4	-2000014
+B2080.50	Exterior Balcony Walls and Railings	4	-2000126
+B2080.70	Exterior Fabrications	4	-2001350
+B2080.80	Bird Control Devices	4	-2001350
+B2090	Exterior Wall Specialties	3	
+B2090.10	Exterior Wall Specialties	4	-2001350
+B30	Exterior Horizontal Enclosures	2	
+B3010	Roofing	3	
+B3010.10	Steep Slope Roofing	4	-2000035
+B3010.50	Low-Slope Roofing	4	-2000035
+B3010.70	Canopy Roofing	4	-2000035
+B3010.90	Roofing Supplementary Components	4	-2000035
+B3020	Roof Appurtenances	3	
+B3020.10	Roof Accessories	4	-2001350
+B3020.30	Roof Specialties	4	-2001350
+B3020.70	Rainwater Management	4	-2001350
+B3040	Traffic Bearing Horizontal Enclosures	3	
+B3040.10	Traffic Bearing Coatings	4	-2000035
+B3040.30	Horizontal Waterproofing Membrane	4	-2000035
+B3040.50	Wear Surfaces	4	-2000035
+B3040.90	Horizontal Enclosure Supplementary Components	4	-2000035
+B3060	Horizontal Openings	3	
+B3060.10	Roof Windows and Skylights	4	-2000014
+B3060.50	Vents and Hatches	4	-2001350
+B3060.90	Horizontal Opening Supplementary Components	4	-2001350
+B3080	Overhead Exterior Enclosures	3	
+B3080.10	Exterior Ceilings	4	-2000038
+B3080.20	Exterior Soffits	4	-2000038
+B3080.30	Exterior Bulkheads	4	-2000038
+C	Interiors	1	
+C10	Interior Construction	2	
+C1010	Interior Partitions	3	
+C1010.10	Interior Fixed Partitions	4	-2000011
+C1010.20	Interior Glazed Partitions	4	-2000011
+C1010.40	Interior Demountable Partitions	4	-2000011
+C1010.50	Interior Operable Partitions	4	-2000011
+C1010.70	Interior Screens	4	-2000011
+C1010.90	Interior Partition Supplementary Components	4	-2000011
+C1020	Interior Windows	3	
+C1020.10	Interior Operating Windows	4	-2000014
+C1020.20	Interior Fixed Windows	4	-2000014
+C1020.50	Interior Special Function Windows	4	-2000014
+C1020.90	Interior Window Supplementary Components	4	-2000014
+C1030	Interior Doors	3	
+C1030.10	Interior Swinging Doors	4	-2000023
+C1030.20	Interior Entrance Doors	4	-2000023
+C1030.25	Interior Sliding Doors	4	-2000023
+C1030.30	Interior Folding Doors	4	-2000023
+C1030.40	Interior Coiling Doors	4	-2000023
+C1030.50	Interior Panel Doors	4	-2000023
+C1030.70	Interior Special Function Doors	4	-2000023
+C1030.80	Interior Access Doors and Panels	4	-2000023
+C1030.90	Interior Door Supplementary Components	4	-2000023
+C1040	Interior Grilles and Gates	3	
+C1040.10	Interior Grilles	4	-2000023
+C1040.50	Interior Gates	4	-2000023
+C1060	Raised Floor Construction	3	
+C1060.10	Access Flooring	4	-2000032
+C1060.30	Platform/Stage Floors	4	-2000032
+C1070	Suspended Ceiling Construction	3	
+C1070.10	Acoustical Suspended Ceilings	4	-2000038
+C1070.20	Suspended Plaster and Gypsum Board Ceilings	4	-2000038
+C1070.50	Specialty Suspended Ceilings	4	-2000038
+C1070.70	Special Function Suspended Ceilings	4	-2000038
+C1070.90	Ceiling Suspension Components	4	-2000038
+C1090	Interior Specialties	3	
+C1090.10	Interior Railings and Handrails	4	-2000126
+C1090.15	Interior Louvers	4	-2001350
+C1090.20	Information Specialties	4	-2001350
+C1090.25	Compartments and Cubicles	4	-2001350
+C1090.30	Service Walls	4	-2000011
+C1090.35	Wall and Door Protection	4	-2001350
+C1090.40	Toilet, Bath, and Laundry Accessories	4	-2001350
+C1090.45	Interior Gas Lighting	4	-2001120
+C1090.50	Fireplaces and Stoves	4	-2001350
+C1090.60	Safety Specialties	4	-2001350
+C1090.70	Storage Specialties	4	-2001000
+C1090.90	Other Interior Specialties	4	-2001350
+C20	Interior Finishes	2	
+C2010	Wall Finishes	3	
+C2010.10	Tile Wall Finish	4	-2000011
+C2010.20	Wall Paneling	4	-2000011
+C2010.30	Wall Coverings	4	-2000011
+C2010.35	Wall Carpeting	4	-2000011
+C2010.50	Stone Facing	4	-2000011
+C2010.60	Special Wall Surfacing	4	-2000011
+C2010.70	Wall Painting and Coating	4	-2000011
+C2010.80	Acoustical Wall Treatment	4	-2000011
+C2010.90	Wall Finish Supplementary Components	4	-2000011
+C2020	Interior Fabrications	3	
+C2020.10	Interior Fabrications	4	-2000011
+C2030	Flooring	3	
+C2030.10	Flooring Treatment	4	-2000032
+C2030.20	Tile Flooring	4	-2000032
+C2030.30	Specialty Flooring	4	-2000032
+C2030.40	Masonry Flooring	4	-2000032
+C2030.45	Wood Flooring	4	-2000032
+C2030.50	Resilient Flooring	4	-2000032
+C2030.60	Terrazzo Flooring	4	-2000032
+C2030.70	Fluid-Applied Flooring	4	-2000032
+C2030.75	Carpeting	4	-2000032
+C2030.80	Athletic Flooring	4	-2000032
+C2030.85	Entrance Flooring	4	-2000032
+C2030.90	Flooring Supplementary Components	4	-2000032
+C2040	Stair Finishes	3	
+C2040.20	Tile Stair Finish	4	-2000120
+C2040.40	Masonry Stair Finish	4	-2000120
+C2040.45	Wood Stair Finish	4	-2000120
+C2040.50	Resilient Stair Finish	4	-2000120
+C2040.60	Terrazzo Stair Finish	4	-2000120
+C2040.75	Carpeted Stair Finish	4	-2000120
+C2050	Ceiling Finishes	3	
+C2050.10	Plaster and Gypsum Board Finish	4	-2000038
+C2050.20	Ceiling Paneling	4	-2000038
+C2050.70	Ceiling Painting and Coating	4	-2000038
+C2050.80	Acoustical Ceiling Treatment	4	-2000038
+C2050.90	Ceiling Finish Supplementary Components	4	-2000038
+C2090	Interior Finish Schedules	3	
+D	Services	1	
+D10	Conveying	2	
+D1010	Vertical Conveying Systems	3	
+D1010.10	Elevators	4	-2001350
+D1010.20	Lifts	4	-2001350
+D1010.30	Escalators	4	-2001350
+D1010.50	Dumbwaiters	4	-2001350
+D1010.60	Moving Ramps	4	-2001350
+D1030	Horizontal Conveying	3	
+D1030.10	Moving Walks	4	-2001350
+D1030.30	Turntables	4	-2001350
+D1030.50	Passenger Loading Bridges	4	-2001350
+D1030.70	People Movers	4	-2001350
+D1050	Material Handling	3	
+D1050.10	Cranes	4	-2001350
+D1050.20	Hoists	4	-2001350
+D1050.30	Derricks	4	-2001350
+D1050.40	Conveyors	4	-2001350
+D1050.50	Baggage Handling Equipment	4	-2001350
+D1050.60	Chutes	4	-2001350
+D1050.70	Pneumatic Tube Systems	4	-2001350
+D1080	Operable Access Systems	3	
+D1080.10	Suspended Scaffolding	4	-2001350
+D1080.20	Rope Climbers	4	-2001350
+D1080.30	Elevating Platforms	4	-2001350
+D1080.40	Powered Scaffolding	4	-2001350
+D1080.50	Building Envelope Access	4	-2001350	
+D20	Plumbing	2	
+D2010	Domestic Water Distribution	3	
+D2010.10	Facility Potable-Water Storage Tanks	4	-2001160
+D2010.20	Domestic Water Equipment	4	-2001160
+D2010.40	Domestic Water Piping	4	-2001160
+D2010.60	Plumbing Fixtures	4	-2001160
+D2010.90	Domestic Water Distribution Supplementary	4	-2001160
+D2020	Sanitary Drainage	3	
+D2020.10	Sanitary Sewerage Equipment	4	-2001160
+D2020.30	Sanitary Sewerage Piping	4	-2001160
+D2020.90	Sanitary Drainage Supplementary Components	4	-2001160
+D2030	Building Support Plumbing Systems	3	
+D2030.10	Stormwater Drainage Equipment	4	-2001160
+D2030.20	Stormwater Drainage Piping	4	-2001160
+D2030.30	Facility Stormwater Drains	4	-2001160
+D2030.60	Gray Water Systems	4	-2001160
+D2030.90	Building Support Plumbing System Supplementary Components	4	-2001160
+D2050	General Service Compressed-Air	3	
+D2050.10	General Service Compressed-Air	4	-2001160
+D2060	Process Support Plumbing Systems	3	
+D2060.10	Compressed-Air Systems	4	-2001160
+D2060.20	Vacuum Systems	4	-2001160
+D2060.30	Gas Systems	4	-2001160
+D2060.40	Chemical-Waste Systems	4	-2001160
+D2060.50	Processed Water Systems	4	-2001160
+D2060.90	Process Support Plumbing System Supplementary Components	4	-2001160
+D30	Heating, Ventilation, and Air Conditioning (HVAC)	2	
+D3010	Facility Fuel Systems	3	
+D3010.10	Fuel Piping	4	-2001140
+D3010.30	Fuel Pumps	4	-2001140
+D3010.50	Fuel Storage Tanks	4	-2001140
+D3020	Heating Systems	3	
+D3020.10	Heat Generation	4	-2001140
+D3020.30	Thermal Heat Storage	4	-2001140
+D3020.70	Decentralized Heating Equipment	4	-2001140
+D3020.90	Heating System Supplementary Components	4	-2001140
+D3030	Cooling Systems	3	
+D3030.10	Central Cooling	4	-2001140
+D3030.30	Evaporative Air-Cooling	4	-2001140
+D3030.50	Thermal Cooling Storage	4	-2001140
+D3030.70	Decentralized Cooling	4	-2001140
+D3030.90	Cooling System Supplementary Components	4	-2001140
+D3050	Facility HVAC Distribution Systems	3	
+D3050.10	Facility Hydronic Distribution	4	-2001140
+D3050.30	Facility Steam Distribution	4	-2001140
+D3050.50	HVAC Air Distribution	4	-2001140
+D3050.90	Facility Distribution Systems Supplementary Components	4	-2001140
+D3060	Ventilation	3	
+D3060.10	Supply Air	4	-2001140
+D3060.20	Return Air	4	-2001140
+D3060.30	Exhaust Air	4	-2001140
+D3060.40	Outside Air	4	-2001140
+D3060.60	Air-to-Air Energy Recovery	4	-2001140
+D3060.70	HVAC Air Cleaning	4	-2001140
+D3060.90	Ventilation Supplementary Components	4	-2001140
+D3070	Special Purpose HVAC Systems	3	
+D3070.10	Snow Melting	4	-2001140
+D40	Fire Protection	2	
+D4010	Fire Suppression	3	
+D4010.10	Water-Based Fire-Suppression	4	-2001160
+D4010.50	Fire-Extinguishing	4	-2001160
+D4010.90	Fire Suppression Supplementary Components	4	-2001160
+D4030	Fire Protection Specialties	3	
+D4030.10	Fire Protection Cabinets	4	-2001350
+D4030.30	Fire Extinguishers	4	-2001350
+D4030.50	Breathing Air Replenishment Systems	4	-2001350
+D4030.70	Fire Extinguisher Accessories	4	-2001350
+D50	Electrical	2	
+D5010	Facility Power Generation	3	
+D5010.10	Packaged Generator Assemblies	4	-2001040
+D5010.20	Battery Equipment	4	-2001040
+D5010.30	Photovoltaic Collectors	4	-2001040
+D5010.40	Fuel Cells	4	-2001040
+D5010.60	Power Filtering and Conditioning	4	-2001040
+D5010.70	Transfer Switches	4	-2001040
+D5010.90	Facility Power Generation Supplementary Components	4	-2001040
+D5020	Electrical Service and Distribution	3	
+D5020.10	Electrical Service	4	-2001040
+D5020.30	Power Distribution	4	-2001040
+D5020.70	Facility Grounding	4	-2001040
+D5020.90	Electrical Service and Distribution Supplementary Components	4	-2001040
+D5030	General Purpose Electrical Power	3	
+D5030.10	Branch Wiring System	4	-2001040
+D5030.50	Wiring Devices	4	-2001060
+D5030.90	General Purpose Electrical Power Supplementary Components	4	-2001040
+D5040	Lighting	3	
+D5040.10	Lighting Control	4	-2001120
+D5040.20	Branch Wiring for Lighting	4	-2001040
+D5040.50	Lighting Fixtures	4	-2001120
+D5040.90	Lighting Supplementary Components	4	-2001120
+D5080	Miscellaneous Electrical Systems	3	
+D5080.10	Lightning Protection	4	-2001040
+D5080.40	Cathodic Protection	4	-2001040
+D5080.70	Transient Voltage Suppression	4	-2001040
+D5080.90	Miscellaneous Electrical Systems Supplementary Components	4	-2001040
+D60	Communications	2	
+D6010	Data Communications	3	
+D6010.10	Data Communications Network Equipment	4	-2001040
+D6010.20	Data Communications Hardware	4	-2001040
+D6010.30	Data Communications Peripheral Data Equipment	4	-2001040
+D6010.50	Data Communications Software	4	-2001040
+D6010.60	Data Communication Program and Integration Services	4	-2001040
+D6020	Voice Communications	3	
+D6020.10	Voice Communications Switching and Routing Equipment	4	-2001040
+D6020.20	Voice Communications Terminal Equipment	4	-2001040
+D6020.30	Voice Communications Messaging	4	-2001040
+D6020.40	Call Accounting	4	-2001040
+D6020.50	Call Management	4	-2001040
+D6030	Audio-Video Communication	3	
+D6030.10	Audio-Video Systems	4	-2001040
+D6030.50	Electronic Digital Systems	4	-2001040
+D6060	Distributed Communications and Monitoring	3	
+D6060.10	Distributed Audio-Video Communications Systems	4	-2001040
+D6060.30	Healthcare Communications and Monitoring	4	-2001040
+D6060.50	Distributed Systems	4	-2001040
+D6090	Communications Supplementary Components	3	
+D6090.10	Supplementary Components	4	-2001040
+D70	Electronic Safety And Security	2	
+D7010	Access Control and Intrusion Detection	3	
+D7010.10	Access Control	4	-2001040
+D7010.50	Intrusion Detection	4	-2001040
+D7030	Electronic Surveillance	3	
+D7030.10	Video Surveillance	4	-2001040
+D7030.50	Electronic Personal Protection	4	-2001040
+D7050	Detection and Alarm	3	
+D7050.10	Fire Detection and Alarm	4	-2001040
+D7050.20	Radiation Detection and Alarm	4	-2001040
+D7050.30	Fuel-Gas Detection and Alarm	4	-2001040
+D7050.40	Fuel-Oil Detection and Alarm	4	-2001040
+D7050.50	Refrigeration Detection and Alarm	4	-2001040
+D7050.60	Water Intrusion Detection and Alarm	4	-2001040
+D7070	Electronic Monitoring and Control	3	
+D7070.10	Electronic Detention Monitoring and Control	4	-2001040
+D7090	Electronic Safety and Security Supplementary Components	3	
+D7090.10	Supplementary Components	4	-2001040
+D80	Integrated Automation	2	
+D8010	Integrated Automation Facility Controls	3	
+D8010.10	Integrated Automation Control of Equipment	4	-2001140
+D8010.20	Integrated Automation Control of Conveying Equipment	4	-2001140
+D8010.30	Integrated Automation Control of Fire-Suppression Systems	4	-2001140
+D8010.40	Integrated Automation Control of Plumbing Systems	4	-2001140
+D8010.50	Integrated Automation Control of HVAC Systems	4	-2001140
+D8010.60	Integrated Automation Control of Electrical Systems	4	-2001140
+D8010.70	Integrated Automation Control of Communication Systems	4	-2001140
+D8010.80	Integrated Automation Control of Electronic Safety and Security Systems	4	-2001140
+D8010.90	Integrated Automation Supplementary Components	4	-2001140
+E	Equipment and Furnishings	1	
+E10	Equipment	2	
+E1010	Vehicle and Pedestrian Equipment	3	
+E1010.10	Vehicle Servicing Equipment	4	-2001350
+E1010.30	Interior Parking Control Equipment	4	-2001350
+E1010.50	Loading Dock Equipment	4	-2001350
+E1010.70	Interior Pedestrian Control Equipment	4	-2001350
+E1030	Commercial Equipment	3	
+E1030.10	Mercantile and Service Equipment	4	-2001350
+E1030.20	Vault Equipment	4	-2001350
+E1030.25	Teller and Service Equipment	4	-2001350
+E1030.30	Refrigerated Display Equipment	4	-2001350
+E1030.35	Commercial Laundry and Dry Cleaning Equipment	4	-2001350
+E1030.40	Maintenance Equipment	4	-2001350
+E1030.50	Hospitality Equipment	4	-2001350
+E1030.55	Unit Kitchens	4	-2001000
+E1030.60	Photographic Processing Equipment	4	-2001350
+E1030.70	Postal, Packaging, and Shipping Equipment	4	-2001350
+E1030.75	Office Equipment	4	-2001350
+E1030.80	Foodservice Equipment	4	-2001350
+E1040	Institutional Equipment	3	
+E1040.10	Educational and Scientific Equipment	4	-2001350
+E1040.20	Healthcare Equipment	4	-2001350
+E1040.40	Religious Equipment	4	-2001350
+E1040.60	Security Equipment	4	-2001350
+E1040.70	Detention Equipment	4	-2001350
+E1060	Residential Equipment	3	
+E1060.10	Residential Appliances	4	-2001350
+E1060.50	Retractable Stairs	4	-2001350
+E1060.70	Residential Ceiling Fans	4	-2001350
+E1070	Entertainment and Recreational Equipment	3	
+E1070.10	Theater and Stage Equipment	4	-2001350
+E1070.20	Musical Equipment	4	-2001350
+E1070.50	Athletic Equipment	4	-2001350
+E1070.60	Recreational Equipment	4	-2001350
+E1090	Other Equipment	3	
+E1090.10	Solid Waste Handling Equipment	4	-2001350
+E1090.30	Agricultural Equipment	4	-2001350
+E1090.40	Horticultural Equipment	4	-2001350
+E1090.60	Decontamination Equipment	4	-2001350
+E20	Furnishings	2	
+E2010	Fixed Furnishings	3	
+E2010.10	Fixed Art	4	-2000080
+E2010.20	Window Treatments	4	-2000080
+E2010.30	Casework	4	-2001000
+E2010.70	Fixed Multiple Seating	4	-2000080
+E2010.90	Other Fixed Furnishings	4	-2000080
+E2050	Movable Furnishings	3	
+E2050.10	Movable Art	4	-2000080
+E2050.30	Furniture	4	-2000080
+E2050.40	Accessories	4	-2000080
+E2050.60	Movable Multiple Seating	4	-2000080
+E2050.90	Other Movable Furnishings	4	-2000080
+F	Special Construction And Demolition	1	
+F10	Special Construction	2	
+F1010	Integrated Construction	3	
+F1010.10	Building Modules	4	-2001350
+F1010.50	Manufactured Fabricated Rooms	4	-2001350
+F1010.70	Modular Mezzanines	4	-2001350
+F1020	Special Structures	3	
+F1020.10	Fabric Structures	4	-2001320
+F1020.20	Space Frames	4	-2001320
+F1020.30	Geodesic Structures	4	-2001320
+F1020.40	Manufacturer-Engineered Structures	4	-2001320
+F1020.60	Manufactured Canopies	4	-2001320
+F1020.65	Rammed Earth Construction	4	-2001320
+F1020.70	Towers	4	-2001320
+F1030	Special Function Construction	3	
+F1030.10	Sound and Vibration Control	4	-2001350
+F1030.30	Seismic Control	4	-2001350
+F1030.50	Radiation Protection	4	-2001350
+F1050	Special Facility Components	3	
+F1050.10	Pools	4	-2001350
+F1050.20	Interior Fountains	4	-2001350
+F1050.30	Interior Water Features	4	-2001350
+F1050.40	Aquariums	4	-2001350
+F1050.50	Amusement Park Structures and Equipment	4	-2001350
+F1050.60	Ice Rinks	4	-2001350
+F1050.70	Animal Containment	4	-2001350
+F1060	Athletic and Recreational Special Construction	3	
+F1060.10	Indoor Soccer Boards	4	-2001350
+F1060.20	Safety Netting	4	-2001350
+F1060.30	Arena Football Boards	4	-2001350
+F1060.40	Floor Sockets	4	-2001350
+F1060.50	Athletic and Recreational Court Walls	4	-2001350
+F1060.60	Demountable Athletic Surfaces	4	-2001350
+F1080	Special Instrumentation	3	
+F1080.10	Stress Instrumentation	4	-2001350
+F1080.20	Seismic Instrumentation	4	-2001350
+F1080.40	Meteorological Instrumentation	4	-2001350
+F1080.60	Earth Movement Monitoring	4	-2001350
+F20	Facility Remediation	2	
+F2010	Hazardous Materials Remediation	3	
+F2010.10	Transportation and Disposal of Hazardous Materials	4	-2001260
+F2010.20	Asbestos Remediation	4	-2001260
+F2010.30	Lead Remediation	4	-2001260
+F2010.40	Polychlorinate Biphenyl Remediation	4	-2001260
+F2010.50	Mold Remediation	4	-2001260
+F30	Demolition	2	
+F3010	Structure Demolition	3	
+F3010.10	Building Demolition	4	-2001260
+F3010.30	Tower Demolition	4	-2001260
+F3010.50	Bridge Demolition	4	-2001260
+F3010.70	Dam Demolition	4	-2001260
+F3030	Selective Demolition	3	
+F3030.10	Selective Building Demolition	4	-2001260
+F3030.30	Selective Interior Demolition	4	-2001260
+F3030.50	Selective Bridge Demolition	4	-2001260
+F3030.70	Selective Historic Demolition	4	-2001260
+F3050	Structure Moving	3	
+F3050.10	Structure Relocation	4	-2001260
+F3050.30	Structure Raising	4	-2001260
+G	Sitework	1	
+G10	Site Preparation	2	
+G1010	Site Clearing	3	
+G1010.10	Clearing and Grubbing	4	-2001260
+G1010.30	Tree and Shrub Removal and Trimming	4	-2001260
+G1010.50	Earth Stripping and Stockpiling	4	-2001260
+G1020	Site Elements Demolition	3	
+G1020.10	Utility Demolition	4	-2001260
+G1020.30	Infrastructure Demolition	4	-2001260
+G1020.50	Selective Site Demolition	4	-2001260
+G1030	Site Element Relocations	3	
+G1030.10	Utility Relocation Includes: Relocation of utility systems	4	-2001260
+G1050	Site Remediation	3	
+G1050.10	Physical Decontamination	4	-2001260
+G1050.15	Chemical Decontamination	4	-2001260
+G1050.20	Thermal Decontamination	4	-2001260
+G1050.25	Biological Decontamination	4	-2001260
+G1050.30	Remediation Soil Stabilization	4	-2001260
+G1050.40	Site Containment	4	-2001260
+G1050.45	Sinkhole Remediation	4	-2001260
+G1050.50	Hazardous Waste Drum Handling	4	-2001260
+G1050.60	Contaminated Site Material Removal	4	-2001260
+G1050.80	Water Remediation	4	-2001260
+G1070	Site Earthwork	3	
+G1070.10	Grading	4	-2001340
+G1070.20	Excavation and Fill	4	-2001340
+G1070.30	Embankments	4	-2001340
+G1070.35	Erosion and Sedimentation Controls	4	-2001340
+G1070.40	Soil Stabilization	4	-2001340
+G1070.45	Rock Stabilization	4	-2001340
+G1070.50	Soil Reinforcement	4	-2001340
+G1070.55	Slope Protection	4	-2001340
+G1070.60	Gabions	4	-2001340
+G1070.65	Riprap	4	-2001340
+G1070.70	Wetlands	4	-2001340
+G1070.80	Earth Dams	4	-2001340
+G1070.90	Site Soil Treatment	4	-2001340
+G20	Site Improvements	2	
+G2010	Roadways	3	
+G2010.10	Roadway Pavement	4	-2001220
+G2010.20	Roadway Curbs and Gutters	4	-2001220
+G2010.40	Roadway Appurtenances	4	-2001220
+G2010.70	Roadway Lighting	4	-2001120
+G2010.80	Vehicle Fare Collection	4	-2001220
+G2020	Parking Lots	3	
+G2020.10	Parking Lot Pavement	4	-2001180
+G2020.20	Parking Lot Curbs and Gutters	4	-2001180
+G2020.40	Parking Lot Appurtenances	4	-2001180
+G2020.70	Parking Lot Lighting	4	-2001120
+G2020.80	Exterior Parking Control Equipment	4	-2001180
+G2030	Pedestrian Plazas and Walkways	3	
+G2030.10	Pedestrian Pavement	4	-2001260
+G2030.20	Pedestrian Pavement Curbs and Gutters	4	-2001260
+G2030.30	Exterior Steps and Ramps	4	-2001260
+G2030.40	Pedestrian Pavement Appurtenances	4	-2001260
+G2030.70	Plaza and Walkway Lighting	4	-2001120
+G2030.80	Exterior Pedestrian Control Equipment	4	-2001260
+G2040	Airfields	3	
+G2040.10	Aviation Pavement	4	-2001260
+G2040.20	Aviation Pavement Curbs and Gutters	4	-2001260
+G2040.40	Aviation Pavement Appurtenances	4	-2001260
+G2040.70	Airfield Lighting	4	-2001120
+G2040.80	Airfield Signaling and Control Equipment	4	-2001260
+G2050	Athletic, Recreational, and Playfield Areas	3	
+G2050.10	Athletic Areas	4	-2001260
+G2050.30	Recreational Areas	4	-2001260
+G2050.50	Playfield Areas	4	-2001260
+G2060	Site Development	3	
+G2060.10	Exterior Fountains	4	-2001260
+G2060.20	Fences and Gates	4	-2001260
+G2060.25	Site Furnishings	4	-2001260
+G2060.30	Exterior Signage	4	-2001260
+G2060.35	Flagpoles	4	-2001260
+G2060.40	Covers and Shelters	4	-2001260
+G2060.45	Exterior Gas Lighting	4	-2001260
+G2060.50	Site Equipment	4	-2001260
+G2060.60	Retaining Walls	4	-2001260
+G2060.70	Site Bridges	4	-2001260
+G2060.80	Site Screening Devices	4	-2001260
+G2060.85	Site Specialties	4	-2001260
+G2080	Landscaping	3	
+G2080.10	Planting Irrigation	4	-2001360
+G2080.20	Turf and Grasses	4	-2001360
+G2080.30	Plants	4	-2001360
+G2080.50	Planting Accessories	4	-2001360
+G2080.70	Landscape Lighting	4	-2001120
+G2080.80	Landscaping Activities	4	-2001350
+G30	Liquid And Gas Site Utilities	2	
+G3010	Water Utilities	3	
+G3010.10	Site Domestic Water Distribution	4	-2001260
+G3010.30	Site Fire Protection Water Distribution	4	-2001260
+G3010.50	Site Irrigation Water Distribution	4	-2001260
+G3020	Sanitary Sewerage Utilities	3	
+G3020.10	Sanitary Sewerage Utility Connection	4	-2001260
+G3020.20	Sanitary Sewerage Piping	4	-2001260
+G3020.40	Utility Septic Tanks	4	-2001260
+G3020.50	Sanitary Sewerage Structures	4	-2001260
+G3020.60	Sanitary Sewerage Lagoons	4	-2001260
+G3030	Storm Drainage Utilities	3	
+G3030.10	Storm Drainage Utility Connection	4	-2001260
+G3030.20	Storm Drainage Piping	4	-2001260
+G3030.30	Culverts	4	-2001260
+G3030.40	Site Storm Water Drains	4	-2001260
+G3030.50	Storm Drainage Pumps	4	-2001260
+G3030.60	Site Subdrainage	4	-2001260
+G3030.70	Storm Drainage Ponds and Reservoirs	4	-2001260
+G3050	Site Energy Distribution	3	
+G3050.10	Site Hydronic Heating Distribution	4	-2001260
+G3050.20	Site Steam Energy Distribution	4	-2001260
+G3050.40	Site Hydronic Cooling Distribution	4	-2001260
+G3060	Site Fuel Distribution	3	
+G3060.10	Site Gas Distribution	4	-2001260
+G3060.20	Site Fuel-Oil Distribution	4	-2001260
+G3060.30	Site Gasoline Distribution	4	-2001260
+G3060.40	Site Diesel Fuel Distribution	4	-2001260
+G3060.60	Site Aviation Fuel Distribution	4	-2001260
+G3090	Liquid and Gas Site Utilities Supplementary Components	3	
+G3090.10	Supplementary Components	4	-2001260
+G40	Electrical Site Improvements	2	
+G4010	Site Electric Distribution Systems	3	
+G4010.10	Electrical Utility Services	4	-2001260
+G4010.20	Electric Transmission and Distribution	4	-2001260
+G4010.30	Electrical Substations	4	-2001260
+G4010.40	Electrical Transformers	4	-2001260
+G4010.50	Electrical Switchgear and Protection Devices	4	-2001260
+G4010.70	Site Grounding	4	-2001260
+G4010.90	Electrical Distribution System Instrumentation	4	-2001260
+G4050	Site Lighting	3	
+G4050.10	Area Lighting	4	-2001260
+G4050.20	Flood Lighting	4	-2001260
+G4050.50	Building Illumination	4	-2001260
+G4050.90	Exterior Lighting Supplementary Components	4	-2001260
+G50	Site Communications	2	
+G5010	Site Communications Systems	3	
+G5010.10	Site Communications Structures	4	-2001260
+G5010.30	Site Communications Distribution	4	-2001260
+G5010.50	Wireless Communications Distribution	4	-2001260
+G90	Miscellaneous Site Construction	2	
+G9010	Tunnels	3	
+G9010.10	Vehicular Tunnels	4	-2001260
+G9010.20	Pedestrian Tunnels	4	-2001260
+G9010.40	Service Tunnels	4	-2001260
+G9010.90	Tunnel Construction Related Activities	4	-2001260

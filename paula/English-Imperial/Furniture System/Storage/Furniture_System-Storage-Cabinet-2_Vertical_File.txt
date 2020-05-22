@@ -1,0 +1,7 @@
+,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Depth##LENGTH##INCHES,Type Comments##OTHER##
+30"" x 18"" x 25"",30,25,18,30"" x 18"" x 25"" Double Vertical File Cabinet
+30"" x 22"" x 25"",30,25,22,30"" x 22"" x 25"" Double Vertical File Cabinet
+36"" x 18"" x 25"",36,25,18,36"" x 18"" x 25"" Double Vertical File Cabinet
+36"" x 22"" x 25"",36,25,22,36"" x 22"" x 25"" Double Vertical File Cabinet
+42"" x 18"" x 25"",42,25,18,42"" x 18"" x 25"" Double Vertical File Cabinet
+42"" x 22"" x 25"",42,25,22,42"" x 22"" x 25"" Double Vertical File Cabinet

@@ -1,0 +1,6 @@
+,Nominal Radius##PIPE_SIZE##INCHES,Valve Height##LENGTH##INCHES,Valve Width##LENGTH##INCHES,Center to End##LENGTH##INCHES,Center to Back##LENGTH##INCHES,Flange Diameter##LENGTH##MILLIMETERS,Flange Thickness##LENGTH##MILLIMETERS
+"2.5""",1.25,16.5,14,7.75,8,190,22.3
+"3""",1.5,16.5,14,7.75,8,190,22.3
+"4""",2,23,20,9,10,230,22.3
+"6""",3,24.5,26,11.5,9,280,23.9
+"8""",4,26,28,14,10,345,27
