@@ -1,9 +1,0 @@
-,Length##length##inches,Width##length##inches,Height##length##inches,Platform Height##length##inches
-60 x 30 x 96, 60, 30, 96, 90
-60 x 60 x 96, 60, 60, 96, 90
-84 x 30 x 96, 84, 30, 96, 90
-84 x 60 x 96, 84, 60, 96, 90
-96 x 30 x 96, 96, 30, 96, 90
-96 x 60 x 96, 96, 60, 96, 90
-120 x 30x 96, 120, 30, 96, 90
-120 x 60 x 96, 120, 60, 96, 90

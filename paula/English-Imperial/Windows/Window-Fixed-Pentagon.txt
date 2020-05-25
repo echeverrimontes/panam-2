@@ -1,8 +1,0 @@
-,Width##length##inches,Side Height##length##inches,Peak Height##length##inches
-24"" x 36"",24,24,12
-26"" x 39"",26,26,13
-28"" x 42"",28,28,14
-30"" x 45"",30,30,15
-34"" x 51"",34,34,17
-38"" x 57"",38,38,19
-

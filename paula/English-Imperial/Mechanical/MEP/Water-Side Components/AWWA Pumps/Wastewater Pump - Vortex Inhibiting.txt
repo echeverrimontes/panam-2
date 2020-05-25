@@ -1,7 +1,0 @@
-,Discharge Nominal Radius##PIPE_SIZE##INCHES,Height##LENGTH##INCHES,Discharge Height##LENGTH##INCHES,Center to Discharge##LENGTH##INCHES,Base Diameter##LENGTH##INCHES,Base Height##LENGTH##INCHES,Flange Diameter##LENGTH##INCHES,Flange Thickness##LENGTH##INCHES
-254 GPM - 23 Foot Head,1.5,32.2,4,8.76,14.2,5.2,7.64,0.76
-285 GPM - 31 Foot Head,1.5,32.2,4,8.76,14.2,5.2,7.64,0.76
-349 GPM - 41 Foot Head,1.5,32.2,4,8.76,14.2,5.2,7.64,0.76
-412 GPM - 49 Foot Head,2,32.2,4.8,12,14.2,5.2,9.16,0.952
-460 GPM - 54 Foot Head,2,32.2,4.8,12,14.2,5.2,9.16,0.952
-540 GPM - 65 Foot Head,2,32.2,4.8,12,14.2,5.2,9.16,0.952

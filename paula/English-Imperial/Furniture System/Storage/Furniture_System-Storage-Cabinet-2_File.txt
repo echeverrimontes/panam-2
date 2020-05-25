@@ -1,7 +1,0 @@
-,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Depth##LENGTH##INCHES,Type Comments##OTHER##
-15"" x 18"" x 25"",15,25,18,15"" x 18"" x 25"" Double File Cabinet
-15"" x 22"" x 25"",15,25,22,15"" x 22"" x 25"" Double File Cabinet
-15"" x 28"" x 25"",15,25,28,15"" x 28"" x 25"" Double File Cabinet
-18"" x 18"" x 25"",18,25,18,18"" x 18"" x 25"" Double File Cabinet
-18"" x 22"" x 25"",18,25,22,18"" x 22"" x 25"" Double File Cabinet
-18"" x 28"" x 25"",18,25,28,18"" x 28"" x 25"" Double File Cabinet

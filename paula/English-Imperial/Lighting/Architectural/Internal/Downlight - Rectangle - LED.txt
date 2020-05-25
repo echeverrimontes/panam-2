@@ -1,8 +1,0 @@
-,Length##Length##inches,Width##Length##inches,Photometric Web File##other##
-"18W Square",2',2',2ACLX2_20L.ies
-"25W Rectangle",4',2',2ACLX4_30L.ies
-"29W Square",2',2',2ACLX2_33L.ies
-"35W Square",2',2',2ACLX2_40L.ies
-"40W Rectangle",4',2',2ACLX4_48L.ies
-"47W Rectangle",4',2',2ACLX4_60L.ies
-"68W Rectangle",4',2',2ACLX4_72L.ies

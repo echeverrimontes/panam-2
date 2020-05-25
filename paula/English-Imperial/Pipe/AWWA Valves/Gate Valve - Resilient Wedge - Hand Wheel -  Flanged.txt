@@ -1,9 +1,0 @@
-,Nominal Radius##pipe_size##inches,Body Length##length##inches,Flange Thickness##length##inches,Valve Height##length##inches,Hand Wheel Radius##length##inches,Hand Wheel Thickness##length##inches,Flange Radius##pipe_size##inches,Flange Fillet Radius##length##inches,Central Body Width Radius##length##inches,Bottom Body Width Radius##length##inches,Central Body Length Radius##length##inches,Bottom Body Length Radius##length##inches
-"2""",1,7,0.69,9.88,3,0.552,3,0.207,2.385,0.885,2.741,0.966
-"2.5""",1.25,7.5,0.75,12.38,3,0.6,3.5,0.225,3.005,1.505,2.925,1.204
-"3""",1.5,8,0.8,12.38,3,0.64,3.75,0.24,3.005,1.505,3.12,1.466
-"4""",2,9,0.94,14.19,5.5,0.752,4.5,0.282,4.125,2.625,3.466,1.966
-"6""",3,10.5,1.06,18,6.5,0.848,5.5,0.318,5.25,3.75,4.084,2.584
-"8""",4,11.5,1.19,21.5,7,0.952,6.75,0.357,6.605,5.105,4.441,2.941
-"10""",5,13,1.25,25.5,8,1,8,0.375,8.24,6.74,5.125,3.625
-"12""",6,14,1.31,28.62,8,1.048,9.5,0.393,8.415,6.915,5.559,4.059

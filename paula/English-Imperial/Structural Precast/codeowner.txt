@@ -1,3 +1,0 @@
-$CODE_OWNER Dragos_Turmac
-$SECONDARY_OWNERS  Bogdan_Balaceanu
-$ACCESS_RESTRICTED No

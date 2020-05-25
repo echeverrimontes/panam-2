@@ -1,8 +1,0 @@
-,Nominal Radius##pipe_size##inches,Body Length##length##inches,Flange Thickness##length##inches,Valve Height##length##inches,Flange Radius##pipe_size##inches,Flange Fillet Radius##length##inches,Central Body Width Radius##length##inches,Bottom Body Width Radius##length##inches,Central Body Length Radius##length##inches,Bottom Body Length Radius##length##inches,Length 1##length##inches,CALC_Bottom##length##inches,Stem Diameter##length##inches,CALC_Op##length##inches,CALC_Op2##length##inches,CALC_Op3##length##inches,CALC_Op4##length##inches
-"2""",1,8.5,0.81,9.88,2.31,0.243,2.385,0.885,2.741,1.241,0.552,0.315,0.44,0.622253967,0.782253967,0.725,0.1
-"3""",1.5,9.62,0.94,12.38,3.75,0.282,3.005,1.505,3.12,1.62,0.64,0.195,0.66,0.933380951,1.113380951,1,0.125
-"4""",2,10,1,14.19,4.56,0.3,4.125,2.625,3.466,1.966,0.752,0.234,0.88,1.244507935,1.444507935,1.5,0.2
-"6""",3,11.6,1.09,18,5.56,0.327,5.25,3.75,4.084,2.584,0.848,0.616,0.9,1.272792206,1.512792206,2.5,0.25
-"8""",4,12.68,1.18,21.5,6.685,0.354,6.605,5.105,4.441,2.941,0.952,1.259,1.2,1.697056275,1.937056275,3,0.25
-"10""",5,14.88,1.25,25.5,7.81,0.375,8.24,6.74,5.125,3.625,1,1.575,1.5,2.121320344,2.321320344,3.75,0.3
-"12""",6,15,1.31,28.62,8.94,0.393,8.415,6.915,5.559,4.059,1.048,2.141,1.8,2.545584412,2.665584412,4,0.35

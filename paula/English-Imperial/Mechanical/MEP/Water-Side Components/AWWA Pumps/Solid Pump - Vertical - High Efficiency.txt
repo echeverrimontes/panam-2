@@ -1,7 +1,0 @@
-,Discharge Nominal Radius##PIPE_SIZE##INCHES,Suction Nominal Radius##PIPE_SIZE##INCHES,Length##LENGTH##INCHES,Height##LENGTH##INCHES,Discharge Height##LENGTH##INCHES,Motor Diameter##LENGTH##INCHES,Discharge Flange Diameter##LENGTH##INCHES,Discharge Flange Thickness##LENGTH##INCHES,Suction Flange Diameter##LENGTH##INCHES,Suction Flange Thickness##LENGTH##INCHES
-"1.1 kW - 2"" Suction - 2"" Discharge",1,1,13.6,19.9,4.6,8.0,5.1,0.6,5.1,0.6
-"2.2 kW - 2.5"" Suction - 2.5"" Discharge",1.25,1.25,14.4,23.9,4.2,8.0,7.1,0.7,7.1,0.7
-"5.5 kW - 3"" Suction - 3"" Discharge",1.5,1.5,14.4,29.6,4.2,12.0,7.6,0.8,7.6,0.8
-"7.5 kW - 4"" Suction - 4"" Discharge",2,2,20.0,31.0,5.6,12.0,9.2,1.0,9.2,1.0
-"11 kW - 5"" Suction - 5"" Discharge",2.5,2.5,32.0,40.2,8.6,12.0,10.2,1.0,10.2,1.0
-"15 kW - 6"" Suction - 6"" Discharge",3,3,32.0,42.1,8.6,14.0,11.2,1.0,11.2,1.0

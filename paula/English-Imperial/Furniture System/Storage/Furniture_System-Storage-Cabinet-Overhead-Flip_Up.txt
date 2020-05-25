@@ -1,7 +1,0 @@
-,Width##LENGTH##INCHES,Height##LENGTH##INCHES,Depth##LENGTH##INCHES,Type Comments##OTHER##
-24"" x 13"" x 15"",24,15,13,24"" x 13"" x 15"" Overhead Flip Up Cabinet
-30"" x 13"" x 15"",30,15,13,30"" x 13"" x 15"" Overhead Flip Up Cabinet
-36"" x 13"" x 15"",36,15,13,36"" x 13"" x 15"" Overhead Flip Up Cabinet
-42"" x 13"" x 15"",42,15,13,42"" x 13"" x 15"" Overhead Flip Up Cabinet
-48"" x 13"" x 15"",48,15,13,48"" x 13"" x 15"" Overhead Flip Up Cabinet
-60"" x 13"" x 15"",60,15,13,60"" x 13"" x 15"" Overhead Flip Up Cabinet

@@ -1,8 +1,0 @@
-,Width##LENGTH##INCHES,Depth##LENGTH##INCHES,Angle Depth##LENGTH##INCHES,Type Comments##OTHER##
-30"" x 24"",30,24,5.96875,30"" x 24"" Corner Angled Work Surface
-36"" x 24"",36,24,11.96875,36"" x 24"" Corner Angled Work Surface
-42"" x 24"",42,24,17.96875,42"" x 24"" Corner Angled Work Surface
-48"" x 24"",48,24,11.96875,48"" x 24"" Corner Angled Work Surface
-36"" x 30"",36,30,5.96875,36"" x 30"" Corner Angled Work Surface
-42"" x 30"",42,30,11.96875,42"" x 30"" Corner Angled Work Surface
-48"" x 30"",48,30,11.96875,48"" x 30"" Corner Angled Work Surface

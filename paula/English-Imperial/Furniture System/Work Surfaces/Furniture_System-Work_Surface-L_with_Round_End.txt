@@ -1,7 +1,0 @@
-,Width##LENGTH##INCHES,Length##LENGTH##INCHES,Depth##LENGTH##INCHES,Type Comments##OTHER##
-66"" x 48"" x 24"",48,66,24,66"" x 48"" x 24"" L with Round End Work Surface
-72"" x 48"" x 24"",48,72,24,72"" x 48"" x 24"" L with Round End Work Surface
-78"" x 48"" x 24"",48,78,24,78"" x 48"" x 24"" L with Round End Work Surface
-66"" x 48"" x 30"",48,66,30,66"" x 48"" x 30"" L with Round End Work Surface
-72"" x 48"" x 30"",48,72,30,72"" x 48"" x 30"" L with Round End Work Surface
-78"" x 48"" x 30"",48,78,30,78"" x 48"" x 30"" L with Round End Work Surface

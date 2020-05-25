@@ -1,7 +1,0 @@
-,Discharge Nominal Radius##PIPE_SIZE##INCHES,Pump Height##LENGTH##INCHES,Discharge Height##LENGTH##INCHES,Center to Discharge##LENGTH##INCHES,Cover Radius##LENGTH##INCHES,Base Diameter##LENGTH##INCHES,Base Height##LENGTH##INCHES,Flange Diameter##LENGTH##INCHES,Flange Thickness##LENGTH##INCHES
-"3 HP - 2.5"" Discharge",1.25,25.2,3.7,8.5,6.7,12.8,5.1,7.1,0.7
-"4 HP - 2.5"" Discharge",1.25,25.2,3.7,8.5,6.7,12.8,5.1,7.1,0.7
-"5.5 HP - 2.5"" Discharge",1.25,26.7,3.7,8.9,7.9,12.8,5.1,7.1,0.7
-"3 HP - 3"" Discharge",1.5,25.2,3.9,8.5,6.7,12.8,5.1,7.6,0.8
-"4 HP - 3"" Discharge",1.5,25.2,3.9,8.5,6.7,12.8,5.1,7.6,0.8
-"5.5 HP - 3"" Discharge",1.5,26.7,3.9,8.9,7.9,12.8,5.1,7.6,0.8

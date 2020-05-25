@@ -1,4 +1,0 @@
-,Length##LENGTH##INCHES,Height##LENGTH##INCHES,Connection Y Offset##LENGTH##INCHES,Connection Z Offset##LENGTH##INCHES
-1.5 gph - 10 bar,11,7.72,0.94,1.83
-2.4 gph - 7 bar,11,7.72,0.94,1.83
-4 gph - 4 bar,11,7.89,0.94,1.55

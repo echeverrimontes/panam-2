@@ -1,7 +1,0 @@
-,Width##LENGTH##INCHES,Depth##LENGTH##INCHES,Height##LENGTH##INCHES,Wall Offset##LENGTH##INCHES,Door Location##LENGTH##INCHES
-36"" Left Side Freezer,36,24,84,4,16
-36"" Right Side Freezer,36,24,84,4,20
-42"" Left Side Freezer,42,24,84,4,19.5
-42"" Right Side Freezer,42,24,84,4,22.5
-48"" Left Side Freezer,48,24,84,4,19.5
-48"" Right Side Freezer,48,24,84,4,28.5
