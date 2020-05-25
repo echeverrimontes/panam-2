@@ -1501,6 +1501,16 @@
       ],
       "Replication": "Disabled",
       "Description": "A slider that produces numeric values."
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.CodeBlockNodeModel, DynamoCore",
+      "NodeType": "CodeBlockNode",
+      "Code": "surf = Surface.ByPatch(;",
+      "Id": "c356b37c5ff44358bed5914a70714ff8",
+      "Inputs": [],
+      "Outputs": [],
+      "Replication": "Disabled",
+      "Description": "Allows for DesignScript code to be authored directly"
     }
   ],
   "Connectors": [
@@ -1734,12 +1744,12 @@
     },
     "Camera": {
       "Name": "Background Preview",
-      "EyeX": 5.6228298158073837,
-      "EyeY": 16.260291142909423,
-      "EyeZ": -1.6586543268678771,
-      "LookX": -11.56396572820997,
-      "LookY": -4.0524332780867027,
-      "LookZ": -6.1718256027200429,
+      "EyeX": 0.91424216267736025,
+      "EyeY": 13.766075141759767,
+      "EyeZ": -4.4387823304882446,
+      "LookX": -6.5439543906775013,
+      "LookY": -2.2932391159177268,
+      "LookZ": -3.4925860384461274,
       "UpX": -0.073821785273135182,
       "UpY": 0.99649285924950182,
       "UpZ": -0.039399561975160279
@@ -2174,11 +2184,21 @@
         "Excluded": false,
         "X": 2222.2300045154889,
         "Y": -486.050282705687
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "Code Block",
+        "Id": "c356b37c5ff44358bed5914a70714ff8",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 1888.05394437706,
+        "Y": 425.53289687352856
       }
     ],
     "Annotations": [],
-    "X": -143.36076414953965,
-    "Y": 251.39000768667353,
-    "Zoom": 0.14803953261400105
+    "X": 192.02435683142335,
+    "Y": 159.17726358060705,
+    "Zoom": 0.0346425625
   }
 }
